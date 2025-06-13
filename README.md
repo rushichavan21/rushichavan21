@@ -37,11 +37,14 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushichavan21&theme=radical&layout=compact" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rushichavan21&theme=dracula&bg_color=282a36&point=ff6e96&line=ff79c6&hide_border=true" />
+</div>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
 
 ## 🌐 Connect with Me
 
